@@ -125,7 +125,10 @@
 		<layer res="songs/190 BPM/GUITAR/Cluster_Strut_190_guitar_03" />
 
 		<!-- synth -->
+		<!-- getting rid of this lead part for now...
 		<layer res="songs/190 BPM/SYNTH/Cluster_Strut_190_synth_lead" />
+		-->
+
 		<layer res="songs/190 BPM/SYNTH/Cluster_Strut_190_synth_pad" />
 
 
